@@ -4,4 +4,5 @@ b=13
 sum=$($a+$b)
 #echo $sum
 echo $sum
-echo "changes made in server side"
+echo "changes made in server side to check"
+
